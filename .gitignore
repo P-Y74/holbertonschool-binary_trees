@@ -48,3 +48,7 @@ a.out
 4-leaf
 .gitignore
 4-main.c
+5-root
+5-main.c
+.gitignore
+.gitignore
