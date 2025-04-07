@@ -45,3 +45,6 @@ a.out
 2-main.c
 3-main.c
 3-del
+4-leaf
+.gitignore
+4-main.c
