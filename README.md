@@ -115,6 +115,13 @@ Feel free to explore the source code here:
 
 ---
 
+## 👨‍💻 Authors
+
+[**f-qrm**](https://github.com/f-qrm)  
+[**P-Y74** ](https://github.com/P-Y74)  
+
+---
+
 ## 📜 License
 
 This project follows Holberton School’s guidelines. All code is for learning and demonstration purposes. 💻🌱
